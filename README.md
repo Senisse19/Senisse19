@@ -1,16 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Victor%20Senisse&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20%7C%20Automação&descAlignY=58&descColor=a0aec0&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Victor%20Senisse&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=58&descColor=a0aec0&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Construo+sistemas+de+IA+que+funcionam+de+verdade;Automação+de+processos+com+n8n+%2B+Python;Do+scraper+ao+dashboard+React+no+mesmo+dia;LLMs+em+produção%2C+não+só+em+notebook" />
+<a href="https://github.com/Senisse19">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Construo+sistemas+de+IA+que+funcionam+de+verdade;Automa%C3%A7%C3%A3o+de+processos+com+n8n+%2B+Python;Do+scraper+ao+dashboard+React+no+mesmo+dia;LLMs+em+produ%C3%A7%C3%A3o%2C+n%C3%A3o+s%C3%B3+em+notebook" />
 </a>
 
 <br/>
 
-[![Open to work](https://img.shields.io/badge/-Open%20to%20work-238636?style=for-the-badge&logo=circle&logoColor=white)](#)
-[![Profile views](https://komarev.com/ghpvc/?username=Senisse19&label=Profile+views&color=0d1117&style=for-the-badge)](https://github.com/Senisse19)
-[![Portfolio](https://img.shields.io/badge/victorsenisse.me-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://victorsenisse.me)
+[![Open to work](https://img.shields.io/badge/-Open%20to%20work-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Senisse19)
+[![Profile views](https://komarev.com/ghpvc/?username=Senisse19&label=Profile+views&color=1a1a2e&style=for-the-badge)](https://github.com/Senisse19)
+[![Portfolio](https://img.shields.io/badge/victorsenisse.me-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://victorsenisse.me)
 
 </div>
 
@@ -35,11 +35,11 @@ Não sou da turma que só faz `pip install langchain` e chama de produto.
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-6E4AE8?style=flat-square&logo=data:image/png;base64,&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-6E4AE8?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
@@ -116,9 +116,9 @@ Não sou da turma que só faz `pip install langchain` e chama de produto.
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Senisse19&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Senisse19&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senisse19&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=7"/>
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Senisse19&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=7"/>
 
 </div>
 
